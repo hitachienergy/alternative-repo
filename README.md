@@ -34,4 +34,4 @@ Repo where binaries and OS packages can be hosted as alternative download locati
 | Opendistro for Elasticsearch          | 1.13.x   | https://opendistro.github.io/for-elasticsearch/                  | [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) | OS Packages | v1.0.x |
 | Opendistro for Elasticsearch Kibana   | 1.13.1   | https://opendistro.github.io/for-elasticsearch-docs/docs/kibana/ | [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) | OS Packages | v1.0.x |  
 
-**NOTE: Always check licenses for binaries as not everything can be added**
+**NOTE: Always check licenses for binaries as not everything can be added depending on the license**
