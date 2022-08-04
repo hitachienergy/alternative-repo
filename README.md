@@ -2,31 +2,30 @@
 Repo where binaries and OS packages can be hosted as alternative download location if the original sources are taken offline. 
 
 # Folder Structure
-
-.
-├──Epiphany version
-|  ├── ubuntu
-|  |   ├──packages
-|  |   ├──files
-|  |   ├──images
-|  |
-|  ├── redhat
-|  |   ├──packages
-|  |   ├──files
-|  |   ├──images
-│
-├──Epiphany version
-|  ├── ubuntu
-|  |   ├──packages
-|  |   ├──files
-|  |   ├──images
-|  |
-|  ├── redhat
-|  |   ├──packages
-|  |   ├──files
-|  |   ├──images
-│
-└── ...
+    .
+    ├──Epiphany version
+    |  ├── ubuntu
+    |  |   ├──packages
+    |  |   ├──files
+    |  |   ├──images
+    |  |
+    |  ├── redhat
+    |  |   ├──packages
+    |  |   ├──files
+    |  |   ├──images
+    │
+    ├──Epiphany version
+    |  ├── ubuntu
+    |  |   ├──packages
+    |  |   ├──files
+    |  |   ├──images
+    |  |
+    |  ├── redhat
+    |  |   ├──packages
+    |  |   ├──files
+    |  |   ├──images
+    │
+    └── ...
 
 # Currently hosted
 
